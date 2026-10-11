@@ -26,28 +26,28 @@
   "homepage": "https://github.com/TuyaAPI/cli#readme",
   "dependencies": {
     "@tuya/tuya-connector-nodejs": "^2.0.2",
-    "@tuyapi/link": "^0.3.3",
-    "@tuyapi/stub": "^0.1.2",
+    "@tuyapi/link": "^0.5.0",
+    "@tuyapi/stub": "^0.3.0",
     "cli-table3": "^0.6.0",
     "colors": "1.4.0",
-    "commander": "^5.1.0",
-    "configstore": "^5.0.1",
+    "commander": "^15.0.0",
+    "configstore": "^8.0.0",
     "debug": "^4.1.1",
     "es-aggregate-error": "^1.0.3",
-    "finalhandler": "^1.1.2",
+    "finalhandler": "^2.1.1",
     "http-mitm-proxy": "^1.1.0",
-    "inquirer": "^12.9.6",
+    "inquirer": "^14.2.3",
     "keypress": "^0.2.1",
-    "ora": "^4.0.4",
+    "ora": "^9.4.1",
     "promise.any": "^2.0.2",
     "qrcode-terminal": "^0.12.0",
-    "serve-static": "^1.14.1",
+    "serve-static": "^2.2.1",
     "tuyapi": "^7.1.1",
     "update-notifier": "^7.0.0"
   },
   "devDependencies": {
-    "husky": "^4.3.8",
-    "xo": "^0.56.0"
+    "husky": "^9.1.7",
+    "xo": "^5.0.1"
   },
   "engines": {
     "node": ">=10"
